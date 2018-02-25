@@ -1,4 +1,4 @@
 
 set(CN_PROJECT_NAME "PesoCoin")
 set(CN_CURRENCY_DISPLAY_NAME "PesoCoin")
-set(CN_CURRENCY_TICKER "PesoCoin")
+set(CN_CURRENCY_TICKER "XPhp")
